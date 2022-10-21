@@ -1,0 +1,4 @@
+Load "..\\Output\\STM32Sample.axf" 
+RDDI-DAP Error
+Error: Flash Download failed  -  Target DLL has been cancelled
+Flash Load finished at 00:31:42
